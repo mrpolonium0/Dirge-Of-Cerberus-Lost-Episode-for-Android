@@ -9,11 +9,11 @@
 
 ### Install on Android
 
-1. Download the latest `.apk` from the Releases page
-2. Download the data files from the release page 
+1. Download the latest `.apk` from the releases page
+2. Download the game data files from the release page 
 3. Install the `.apk` package
-4. open the `.zip`
-5. Boot the game
+4. open the `.zip` from the `.apk`
+5. And boot the game!
 
 ---
 ### Current state
