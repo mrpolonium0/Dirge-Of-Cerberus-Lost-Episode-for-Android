@@ -1,0 +1,19 @@
+Signature-Version: 1.0
+Created-By: custom
+SHA-256-Digest-Manifest: SkIjht9voT0oVPx+TYSIyxLxAwNkmoAr96sNVbe8WJE=
+
+Name: AndroidManifest.xml
+SHA-256-Digest: C6TEz6rFmuKGmrTm8Kx1gbhv3BBiDdcBNf+1w24t/D4=
+
+Name: assets/expected-payload.properties
+SHA-256-Digest: q1YB7oGVOU/ehgDiUQ54dbNSmvTByGd1ddi35YkC0j8=
+
+Name: res/drawable/ic_bridge.png
+SHA-256-Digest: 4hIeeJ9mTXo2fJNTAz5KS9M4glgxvsXtSybLy0XO7rs=
+
+Name: resources.arsc
+SHA-256-Digest: vtPk5UswlwYV7yYKoFG4zwLLR+4Pq4YWLe6svRkj8tI=
+
+Name: classes.dex
+SHA-256-Digest: hqiwyClI4QUhAJFRk+nfVILsLXGQ/zKcgZNWAk44dZw=
+
