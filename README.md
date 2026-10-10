@@ -18,7 +18,7 @@
 ---
 ### Current state
 
-The game appears to run properly throughout an entire walkthrough, with several issues as the "Biliniar" fogy graphics and the underline screen stretch over the top, masking sometimes the life bar. UI options take too much of the screen and external controller support is yet to be implemented. I'm working on bringing the "nearest neighbor" sharp edge picture quality, and a lower android support for older phones. UI changes will come and more is yet to be announced!    
+The game appears to run properly throughout an entire walkthrough, with several issues as the "Bilinear" fogy graphics and the underline screen stretch over the top, masking sometimes the life bar. UI options take too much of the screen and external controller support is yet to be implemented. I'm working on bringing the "nearest neighbor" sharp edge picture quality, and a lower android support for older phones. UI changes will come and more is yet to be announced!    
 
 
 
